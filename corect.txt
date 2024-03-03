@@ -1,0 +1,4 @@
+Client: Raul Stoica
+Produs: Laptop; Cantitate: 1; Pret: 2500.00; TVA: 19.00%
+Produs: Mouse; Cantitate: 2; Pret: 50.00; TVA: 19.00%
+Produs: Tastatura; Cantitate: 1; Pret: 100.00; TVA: 19.00%
